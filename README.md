@@ -1,1 +1,1 @@
-# teknocanlar 1 2 3
+# teknocanlar 1 2 

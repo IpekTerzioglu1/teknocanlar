@@ -1,7 +1,7 @@
 # teknocanlar
 
-## ÖZET
-Bu araç bütçe düzenlemesi ve bankacılık promosyonlarına erişim kolaylığı sağlayacak. Tüketici alışkanlıklarını harcamalar üzerinden öğrenip kullanıcıya en uygun kampanyaları öneri olarak sıralayacak. Bütçe düzenlemesi kısmında faturalar, mobil ödemeler, kredi kartı ödemeleri tarihleri tutulacak ve de aile planlaması seçeneği olacak. 
+## Özet
+Bu araç bütçe düzenlemesi ve bankacılık promosyonlarına erişim kolaylığı sağlayacak. Kullanıcıların harcama alışkanlıklarına bakarak bankanın sunduğu kampanyaları kişiye özel öneri olarak sıralayacak. Bütçe düzenlemesi kısmında faturalar, mobil ödemeler, kredi kartı ödemeleri tarihleri tutulacak ve de aile planlaması seçeneği olacak. 
 
 ## Kullanılacak Teknolojiler
 1. ML
